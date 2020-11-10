@@ -3,7 +3,7 @@
 <a align="center">![Willian github stats](https://github-readme-stats.vercel.app/api?username=williansz&show_icons=true&theme=red)</a>
 
 #### Contato
-<a href="https://www.instagram.com/willi4nsz/">
+<a href="https://www.instagram.com/iwillatec/">
  <img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="30"/>
 </a>
 <a href="https://www.facebook.com/willi4nsz/">
