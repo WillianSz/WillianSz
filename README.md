@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode</strong>
+  💼 Ferramentas: <strong>VSCode, NetBeans, Eclipse, Figma</strong>
 </p>
 
 <p align="left">
