@@ -5,16 +5,16 @@
 
 - 🤔 &nbsp; Desenvolvendo ideais, almejando tecnologias e alcançando sonhos.
 - 🎓 &nbsp; Estudando **Tecnologia da Informação** no <a href="https://portal.ifba.edu.br/camacari">IFBA</a>.
-- 💼 &nbsp; Tem trampo? Tamo ae!
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aprendendo**
 
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+**Aplicações e dados**
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
