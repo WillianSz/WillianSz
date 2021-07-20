@@ -3,7 +3,7 @@
 
 <h3> 🧙‍♂️ &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Desenvolvendo ideais, almejando tecnologias e alcançando sonhos.
+- 🤔 &nbsp; Desenvolvendo ideias, almejando tecnologias e alcançando sonhos.
 - 🎓 &nbsp; Estudando **Tecnologia da Informação** no <a href="https://portal.ifba.edu.br/camacari">IFBA</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
