@@ -4,7 +4,6 @@
 <h3> 🧙‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; "Uma pessoa inteligente não é aquela que sabe as respostas. A pessoa inteligente ouve as perguntas que as coisas lhe fazem e trata de encontrar as respostas." - Rubem Alves
-- 🎓 &nbsp; Estuda Tecnologia da Informação na <a href="https://portal.ifba.edu.br/camacari">IFBA</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
