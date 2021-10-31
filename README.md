@@ -1,11 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=WillianSz&color=006bed)
-
-<h3> 🧙‍♂️ &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; "Uma pessoa inteligente não é aquela que sabe as respostas. A pessoa inteligente ouve as perguntas que as coisas lhe fazem e trata de encontrar as respostas." - Rubem Alves
-
-<h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Ferramentas de Desenvolvimento**
 
@@ -35,10 +28,3 @@
 </a>
 
 <br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Willian Souza](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link==https://www.linkedin.com/in/willian-souza-386643186/)](https://www.linkedin.com/in/willian-souza-386643186/)
-[![Gmail Badge](https://img.shields.io/badge/-willianscript@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willianscript@gmail.com)](mailto:willianscript@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/whyzin/)](https://www.instagram.com/whyzin/)
-[![GitHub](https://img.shields.io/github/followers/WillianSz?label=follow&style=social)](https://github.com/WillianSz)
