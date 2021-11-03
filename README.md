@@ -9,7 +9,6 @@
 * 💻 IT Technician by **[IFBA](https://portal.ifba.edu.br/)**;
 
 ## Language coding time (week)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=williansz&theme=dark" height="49%" width="49%" />&nbsp;&nbsp;
-</p>
+
+[![Whyzin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@williansz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
