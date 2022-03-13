@@ -3,11 +3,17 @@
 
 
 
-Olá, bem-vindo ao meu Github. Aqui você pode ver que o Github pode ser um bom backup de código; se você olhar de perto, verá o meu.
-Você me verá usando muito Java, PHP, Python, C / C ++. Isso diz muito sobre o nicho que gosto, que é a programação backend.
+Olá, meu nome é Willian,
+aqui compartilho alguns códigos.
 
 ## Coisas que já fiz/fazendo
 * 💻 Técnico em Informática **[IFBA](https://portal.ifba.edu.br/)**;
+
+## Estudando
+* Java, MySQL
+
+## Interesses
+* HTML, CSS, PHP, JavaScript, .LUA, Python, UI/UX, C++,
 
 ## Language coding time (week)
 
