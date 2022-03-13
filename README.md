@@ -6,7 +6,6 @@
 Olá, meu nome é Willian,
 aqui compartilho alguns códigos.
 
-## Coisas que já fiz/fazendo
 * 💻 Técnico em Informática **[IFBA](https://portal.ifba.edu.br/)**;
 
 ## Estudando
