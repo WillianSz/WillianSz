@@ -9,7 +9,7 @@ aqui compartilho alguns códigos.
 * 💻 Técnico em Informática **[IFBA](https://portal.ifba.edu.br/)**;
 
 ## Estudando
-* Java, MySQL, PHP
+* C#, MySQL, PHP
 
 ## Interesses
 * HTML, CSS, JavaScript, .LUA, Python, UI/UX, C++,
