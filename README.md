@@ -3,8 +3,11 @@
 
 * 💻 Técnico em Informática **[IFBA](https://portal.ifba.edu.br/)**;
 
-## Estudando
-* Java, MySQL, PHP
+## Utilizando as Linguagens:
+* Java, PHP
+
+# SGBDs
+* MySQL
 
 ## Interesses
 * HTML, CSS, JavaScript, .LUA, Python, C++, C#,
