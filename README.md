@@ -4,10 +4,10 @@
 * 💻 Técnico em Informática **[IFBA](https://portal.ifba.edu.br/)**;
 
 ## Estudando
-* C#, MySQL, PHP
+* Java, MySQL, PHP
 
 ## Interesses
-* HTML, CSS, JavaScript, .LUA, Python, C++,
+* HTML, CSS, JavaScript, .LUA, Python, C++, C#,
 
 ## Language coding time (week)
 
