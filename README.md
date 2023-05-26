@@ -1,14 +1,8 @@
 
 # Willian Souza <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-* 💻 Técnico em Informática **[IFBA](https://portal.ifba.edu.br/)**;
-
-## Utilizando as Linguagens:
-* Java
-* PHP
-
-# SGBDs
-* MySQL
+Hello everyone!
+Just like every technology enthusiast, I also like to write code.
 
 ## Language coding time (week)
 
